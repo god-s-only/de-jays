@@ -1,5 +1,5 @@
 import { BookForm, HeroSlider, Rooms, ScrollToTop } from '../components';
-import { About, Contact } from '../pages';
+import { About, Contact, Restaurant } from '../pages';
 
 
 const Home = () => {
@@ -22,6 +22,11 @@ const Home = () => {
       <About />
 
       <Rooms />
+
+
+      <Restaurant />
+
+
 
       
 
